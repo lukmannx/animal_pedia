@@ -48,10 +48,10 @@ List<ListItem> listTiles = [
 List<ListItem> listPop = [
     ListItem(
       "https://media.istockphoto.com/photos/keep-smiling-picture-id899747778?k=20&m=899747778&s=612x612&w=0&h=jRnWNR0EuN6X9TQneUods0YfJ8q5mxZLY6gIjrh-qAc=",
-      "Lukman",
+      "Orang Utan",
       "Kalimantan",
       "Mamalia",
-      "Lukman merupakan salah satu bangsa kera yang sangat mirip dengan manusia. Di seluruh dunia, jumlah Lukman terus berkurang. Hingga saat ini, hanya tersisa sekitar 55 ribu individu saja. Banyak di antaranya yang hidup di pulau Kalimantan dan 200 lainnya di Sumatera.\n\nJumlah Lukman yang terus menurun diakibatkan populasi mereka yang membutuhkan hutan lebat. Tak hanya itu, habitat mereka direbut oleh pihak-pihak tak bertanggung jawab untuk pembukaan lahan paksa. Hal ini menarik perhatian WWF dan banyak volunteer dari belahan dunia untuk membantu penangkaran Lukman di Indonesia"
+      "Orang Utan merupakan salah satu bangsa kera yang sangat mirip dengan manusia. Di seluruh dunia, jumlah Orang Utan terus berkurang. Hingga saat ini, hanya tersisa sekitar 55 ribu individu saja. Banyak di antaranya yang hidup di pulau Kalimantan dan 200 lainnya di Sumatera.\n\nJumlah Orang Utan yang terus menurun diakibatkan populasi mereka yang membutuhkan hutan lebat. Tak hanya itu, habitat mereka direbut oleh pihak-pihak tak bertanggung jawab untuk pembukaan lahan paksa. Hal ini menarik perhatian WWF dan banyak volunteer dari belahan dunia untuk membantu penangkaran Orang Utan di Indonesia"
     ),
     ListItem(
       "https://media.istockphoto.com/photos/attack-of-komodo-dragon-giant-lizard-indonesia-picture-id1297824478?k=20&m=1297824478&s=612x612&w=0&h=JyQ0sOBp3UAXQ5wMe5Wvb45TmVrv3gxosDFiOPoqpc0=",
