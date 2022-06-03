@@ -66,7 +66,7 @@ Widget buildName(user) => Padding(
 // );
 
 Widget buildAbout(User user) => Container(
-  padding: EdgeInsets.symmetric(horizontal: 48),
+  padding: EdgeInsets.symmetric(horizontal: 40),
   child: Column(
     crossAxisAlignment: CrossAxisAlignment.start,
     children: [

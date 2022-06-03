@@ -15,20 +15,23 @@ class DetailWallpaper extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Image.network(url),
+                  Hero(
+                    tag: url,
+                    child: Image.network(url),
+                  ),
                   SizedBox(
                     height: 10.0,
                   ),
                   Padding(
                     padding: EdgeInsets.only(top: 10),
                     child: ElevatedButton(
-                      child: Text('Download'),
+                      child: Text('Download Muka Kamu'),
                       onPressed: () async {
-                        await GallerySaver.saveImage(url, albumName: 'Flutter');
+                        await GallerySaver.saveImage(
+                            'https://img.okezone.com/content/2018/03/27/18/1878631/monyet-berwajah-mirip-manusia-jadi-sensasi-viral-di-china-oHLrAN4eNh.jpg');
                       },
                     ),
                   ),
-                  
                 ],
               ),
             ),

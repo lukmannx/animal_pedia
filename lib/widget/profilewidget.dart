@@ -31,7 +31,7 @@ class ProfileWidget extends StatelessWidget {
 
 Widget buildImage() {
   final image = Image.asset(
-    'images/gamteng.jpg',
+    'assets/images/gamteng.jpg',
     fit: BoxFit.cover,
   );
 

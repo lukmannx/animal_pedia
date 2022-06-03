@@ -52,7 +52,7 @@ Widget listWidget(ListItem item) {
                       SizedBox(
                         width: 10.0,
                       ),
-                      Icon(Icons.date_range),
+                      Icon(Icons.donut_large),
                       Text(
                         item.species,
                         style: TextStyle(fontSize: 12.0),
